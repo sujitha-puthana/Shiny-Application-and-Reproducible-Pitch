@@ -17,10 +17,10 @@ Second, we should use Slidify or Rstudio Presenter to prepare a reproducible pit
 
 This presentation adresses the second part of the course project.
 The app developed for the first part of the assignment is avalilable at:
-https://github.com/sujitha-puthana/Shiny-Application-and-Reproducible-Pitch/appproject/
+https://sujithap.shinyapps.io/shinyapplication/
 
 Source code for ui.R and server.R files are available on the GitHub:
-hhttps://github.com/sujitha-puthana/Shiny-Application-and-Reproducible-Pitch/tree/master/
+https://github.com/sujitha-puthana/Shiny-Application-and-Reproducible-Pitch/tree/master/shiny-application
 
 
 ========================================================
@@ -37,7 +37,7 @@ The data used in the app comes from the Motor Trend Car Road Tests (mtcars) data
 ```{r}
 head(mtcars)
 ```
-
+=============================================================
 ## Plot
 
 Here we can see the relationship between three variables: miles per gallon (mpg), displacement (disp) and weight (wt).
